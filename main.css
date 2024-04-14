@@ -17,7 +17,7 @@
     border: 0px; 
     height: 350px; 
     width: 100%;
-    background-image: url("./images/apart1.jpeg");
+    background-image: url("./images/apart1.jpg");
     /* Background pattern from Toptal Subtle Patterns */
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,16 +76,15 @@
 
 
 /*For slideshow*/
-* {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-height: 400px;
   position: relative;
   margin: auto;
+  text-align: center; 
 }
 
 /* Caption text */

@@ -1,3 +1,24 @@
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.caveat{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 100px;
+  margin: 0px;
+}
+
+h2{
+  color: rgb(114, 112, 112);
+}
 
 .mybody{
     /*background-color: rgb(114, 105, 74);    */
@@ -8,7 +29,21 @@
     top: 0px;
 }
 
-
+.rezer_left{
+  min-width:500px; width:50%; 
+  height: 70px;
+  float: left;
+  font-size: 40px;
+  padding-left: 15px;
+  padding-top: 15px;
+  color: azure;
+}
+.rezer_right{
+  min-width:500px; width:50%; 
+  float: left;
+  padding-left: 15px;
+  color: azure;
+}
 
 .top{
     position: relative;
@@ -35,7 +70,7 @@
 }
 .mainheader{
     position: absolute;  
-    top: 70px;
+    top: 100px;
     right: 0; 
     width: 100%;
     height: 120px; 
@@ -61,10 +96,13 @@
 
 .welcometext{
     font-weight: normal;
+    font-size: 30px;
     color: rgb(114, 112, 112);
     text-align: center; 
-    width:400px;
+    float:inline-end;
     margin:auto;
+    width:100%;
+    padding: 15px;
 }
 
 .contact{
@@ -124,22 +162,34 @@ img {vertical-align: middle;}
 
 /* For cells */
 .cell_1_1{
-  height:400px; min-width:500px; width:50%; float: left; background-color: #f3dbc7;
+  height:400px; min-width:500px; width:50%; float: left; background-color: #f4ffed;
+  color: rgb(114, 112, 112);
 }
 
 .cell_1_2{
-  height:400px; min-width:500px; width:50%; float: left; background-color: #f3dbc7;
+  height:400px; min-width:500px; width:50%; float: left; background-color: #f4ffed;
+  color: rgb(114, 112, 112);
 }
 
 .cell_2_1{
   height:400px; min-width:500px; width:50%; float: right; background-color: #ffffff;
+  color: rgb(114, 112, 112);
 }
 
 .cell_2_2{
   height:400px; min-width:500px; width:50%; float: right; background-color: #ffffff;
+  color: rgb(114, 112, 112);
 }
 
+.txt_pic{
+  padding-left: 15px;
+  max-width: 600px;
 
+}
+
+h3{
+  padding-left: 15px;
+}
 
 
 

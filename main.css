@@ -30,7 +30,7 @@ h2{
 }
 
 .rezer_left{
-  min-width:500px; width:50%; 
+  min-width:350px; width:50%; 
   height: 70px;
   float: left;
   font-size: 40px;
@@ -39,7 +39,7 @@ h2{
   color: azure;
 }
 .rezer_right{
-  min-width:500px; width:50%; 
+  min-width:350px; width:50%; 
   float: left;
   padding-left: 15px;
   color: azure;

@@ -162,22 +162,22 @@ img {vertical-align: middle;}
 
 /* For cells */
 .cell_1_1{
-  height:400px; min-width:500px; width:50%; float: left; background-color: #f4ffed;
+  height:400px; min-width:400px; width:50%; float: left; background-color: #f4ffed;
   color: rgb(114, 112, 112);
 }
 
 .cell_1_2{
-  height:400px; min-width:500px; width:50%; float: left; background-color: #f4ffed;
+  height:400px; min-width:400px; width:50%; float: left; background-color: #f4ffed;
   color: rgb(114, 112, 112);
 }
 
 .cell_2_1{
-  height:400px; min-width:500px; width:50%; float: right; background-color: #ffffff;
+  height:400px; min-width:400px; width:50%; float: right; background-color: #ffffff;
   color: rgb(114, 112, 112);
 }
 
 .cell_2_2{
-  height:400px; min-width:500px; width:50%; float: right; background-color: #ffffff;
+  height:400px; min-width:400px; width:50%; float: right; background-color: #ffffff;
   color: rgb(114, 112, 112);
 }
 
